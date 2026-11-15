@@ -1,0 +1,13 @@
+{
+  "name": "rules-for-robots-core",
+  "private": true,
+  "type": "module",
+  "description": "The domain-neutral part of Rules for Robots: the plugins every project installs, the process engine every domain uses, and the tools rfr's maintainers use to test it.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "verify": "node .github/scripts/verify.mjs"
+  }
+}
