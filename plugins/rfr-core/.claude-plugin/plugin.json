@@ -1,6 +1,6 @@
 {
   "name": "rfr-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Guards, setup, and the working-agreement rules for every Rules for Robots project. Empty until step 3 of the rebuild plan.",
   "author": {
     "name": "Lifelike & Believable Animation Design"
